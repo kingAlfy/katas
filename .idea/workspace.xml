@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="444a7b96-3b27-4f3f-a4e4-5faae7b24f0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/org/katas/SheepsCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/test/java/SheepsCounterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.AreaOfCirlceTest">
+  <component name="RunManager" selected="JUnit.SheepsCounterTest">
     <configuration name="AreaOfCirlceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java" />
       <option name="PACKAGE_NAME" value="" />
@@ -82,10 +83,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveCharsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SheepsCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RemoveCharsTest" />
+      <option name="MAIN_CLASS_NAME" value="SheepsCounterTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SheepsCounterTest" />
         <item itemvalue="JUnit.AreaOfCirlceTest" />
         <item itemvalue="JUnit.JosephusPermutationTest" />
         <item itemvalue="JUnit.AscendDescendTest" />
         <item itemvalue="JUnit.MissingLettersTest" />
-        <item itemvalue="JUnit.RemoveCharsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -111,16 +112,5 @@
       <updated>1693656289855</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java/src/main/java/org/katas/JosephusPermutation.java</url>
-          <line>84</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
