@@ -25,7 +25,7 @@ public class TwoSum {
 
             cnt++;
         }
-        
+
         return positions;
     }
 
